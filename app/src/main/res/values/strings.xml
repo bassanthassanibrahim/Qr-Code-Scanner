@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BassantHassan</string>
+    <string name="scan">Scan QR Code</string>
+    <string name="history">View History</string>
+    <string name="favourites">View Favourites</string>
+    <string name="star">Favorite icon</string>
+</resources>
